@@ -1,4 +1,4 @@
-<h2 style="font-size: 36px; margin-bottom: 10px;">🚀 Chatty — Real-Time Full-Stack Chat Application</h2>
+<h3 style="font-size: 36px; margin-bottom: 10px;">✍️ MERN Blog Application</h3>
 
 Welcome to the MERN Blog Website repository! This is a fully functional, full-stack blogging platform built using the MERN stack.
 
