@@ -1,5 +1,3 @@
-That looks like a great set of features! Here is a concise, shortened version of your README:
-
 ✍️ MERN Blog Website
 Welcome to the MERN Blog Website repository! This is a fully functional, full-stack blogging platform built using the MERN stack.
 
